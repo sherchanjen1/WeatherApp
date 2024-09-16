@@ -1,6 +1,6 @@
 
 ## 🔗 Link
-https://nirmitraj.github.io/Weather-App/
+https://sherchanjen1.github.io/WeatherApp/
 
 
 # Weather App
